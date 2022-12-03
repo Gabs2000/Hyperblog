@@ -1,7 +1,4 @@
-Esta es la historia de César Gabriel Rodríguez Acosta
-Tiene 22 años
-Y nacio y vive en México
+IT Analyst, Shop Floor
 
-En camara parece alto pero la verdad no es tan alto
-
-Hoy es el CEO de su propia compania
+Bienvenido a tu nuevo puesto, este es un curso introductorio de lo que vamos a estar viendo.
+Esto es un curso de git y github básico.
